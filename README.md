@@ -1,6 +1,6 @@
 # Web scraping in python
 
-This is a small project, that **collects data from a website and saves them to a json file**.
+This is a small project, that **collects data from a website and then saves them to a json file**.
 
 ## Description
 
@@ -26,7 +26,7 @@ These are included in the *requirements.txt* file. You can install them by the h
 `pip install -r requirements.txt`
 
 ## Execute program
-You can execute python script in command line type
+You can execute python script in command line typing
 `py main.py`
 
 
